@@ -6,4 +6,4 @@
 - 📫 You can reach me on telegram: @Thundiii27
 
 Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thundi_dev&theme=solarized_dark)
