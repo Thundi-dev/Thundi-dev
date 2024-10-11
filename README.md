@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Sazanova Kseniia aka @Thundi-dev
+# 👋 Hi, I’m Sazanova Kseniia aka @Thundi-dev
+----
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on ![image](https://github.com/user-attachments/assets/074e5f30-6198-42c0-b6de-10d417e46847) @Thundiii27
+- 📫 You can reach me on telegram: @Thundiii27
