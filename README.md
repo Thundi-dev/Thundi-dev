@@ -1,4 +1,4 @@
-👋 Hi, I’m Sazanova Kseniia aka @Thundi-dev
+👋 Hi,  aka @Thundi-dev
 # I'm a unemployed
 
 - 👀 I’m interested in Data Science
